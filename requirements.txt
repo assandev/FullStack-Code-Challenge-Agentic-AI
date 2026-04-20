@@ -1,0 +1,5 @@
+fastapi>=0.115,<1.0
+uvicorn>=0.32,<1.0
+pydantic>=2.9,<3.0
+langchain>=0.3,<0.4
+langchain-ollama>=0.2,<0.3

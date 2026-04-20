@@ -1,0 +1,102 @@
+[
+    {
+        "id": "faq_001",
+        "title": "Monthly Maintenance Fee",
+        "category": "billing",
+        "question": "Why was I charged a monthly maintenance fee?",
+        "answer": "A monthly maintenance fee may be charged if your account does not meet minimum balance or activity requirements. Fees may be waived if you meet specific conditions such as maintaining a minimum balance or having qualifying transactions.",
+        "confidence": 0.92,
+        "source": "bank_faq",
+        "applicability": "Applies when account balance or activity does not meet waiver criteria"
+    },
+    {
+        "id": "faq_002",
+        "title": "Unexpected Transaction",
+        "category": "billing",
+        "question": "I see a transaction I don’t recognize. What should I do?",
+        "answer": "If you notice an unfamiliar transaction, review your recent purchases and subscriptions. If you still do not recognize it, you should report it immediately as it may be unauthorized.",
+        "confidence": 0.95,
+        "source": "bank_faq",
+        "applicability": "Applies to potentially unauthorized transactions"
+    },
+    {
+        "id": "faq_003",
+        "title": "Password Reset",
+        "category": "technical",
+        "question": "How do I reset my password?",
+        "answer": "You can reset your password from the login screen by selecting 'Forgot Password' and following the verification steps sent to your registered email or phone.",
+        "confidence": 0.93,
+        "source": "bank_faq",
+        "applicability": "Applies when user cannot access account"
+    },
+    {
+        "id": "faq_004",
+        "title": "Mobile App Login Issues",
+        "category": "technical",
+        "question": "I cannot log into the mobile app. What should I do?",
+        "answer": "Ensure your app is updated, verify your credentials, and check your internet connection. If the issue persists, try resetting your password or reinstalling the app.",
+        "confidence": 0.91,
+        "source": "bank_faq",
+        "applicability": "Applies to login failures in mobile app"
+    },
+    {
+        "id": "faq_005",
+        "title": "Transfer Processing Time",
+        "category": "general",
+        "question": "How long do bank transfers take?",
+        "answer": "Transfers between accounts in the same bank are usually instant, while interbank transfers may take 1-3 business days depending on the destination and processing times.",
+        "confidence": 0.9,
+        "source": "bank_faq",
+        "applicability": "Applies to standard bank transfers"
+    },
+    {
+        "id": "faq_006",
+        "title": "Customer Support Hours",
+        "category": "general",
+        "question": "What are your customer support hours?",
+        "answer": "Customer support is available 24/7 through chat and phone. Some specialized services may have limited hours.",
+        "confidence": 0.88,
+        "source": "bank_faq",
+        "applicability": "Applies to general support inquiries"
+    },
+    {
+        "id": "faq_007",
+        "title": "Account Locked",
+        "category": "technical",
+        "question": "My account is locked. How can I regain access?",
+        "answer": "Accounts may be locked after multiple failed login attempts. You can unlock your account by verifying your identity through the recovery process or contacting support.",
+        "confidence": 0.94,
+        "source": "bank_faq",
+        "applicability": "Applies to locked accounts"
+    },
+    {
+        "id": "faq_008",
+        "title": "Refund Processing",
+        "category": "billing",
+        "question": "How long does a refund take?",
+        "answer": "Refunds typically take 3-5 business days to process after being issued, depending on the merchant and payment method.",
+        "confidence": 0.89,
+        "source": "bank_faq",
+        "applicability": "Applies to card or transaction refunds"
+    },
+    {
+        "id": "faq_009",
+        "title": "Update Personal Information",
+        "category": "general",
+        "question": "How can I update my personal information?",
+        "answer": "You can update your personal details from your account settings in the app or by contacting customer support if verification is required.",
+        "confidence": 0.87,
+        "source": "bank_faq",
+        "applicability": "Applies to profile updates"
+    },
+    {
+        "id": "faq_010",
+        "title": "Card Declined",
+        "category": "billing",
+        "question": "Why was my card declined?",
+        "answer": "A card may be declined due to insufficient funds, security checks, expired card details, or transaction limits. Check your balance and card status or contact support for more details.",
+        "confidence": 0.9,
+        "source": "bank_faq",
+        "applicability": "Applies to declined transactions"
+    }
+]
